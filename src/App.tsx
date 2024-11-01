@@ -3,9 +3,7 @@ import Stars from './components/Stars';
 
 function App() {
   return (
-    <>
-      <Stars count={5} />
-    </>
+    <Stars count={5} />
   )
 }
 
